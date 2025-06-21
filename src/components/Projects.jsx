@@ -34,8 +34,8 @@ const Projects = () => {
       description: 'Responsive portfolio website with modern design, smooth animations, and optimized performance.',
       image: 'https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg?auto=compress&cs=tinysrgb&w=600',
       tags: ['Next.js', 'Tailwind', 'Framer Motion'],
-      liveUrl: 'https://gallery-fullstack-project.vercel.app/',
-      githubUrl: 'https://github.com/Bhavana029/gallery-fullstack-project'
+      liveUrl: 'https://my-portfolio-aa3q-git-main-bhavanas-projects-8bf17d37.vercel.app/',
+      githubUrl: 'https://github.com/Bhavana029/my-portfolio'
     }
   ];
 
