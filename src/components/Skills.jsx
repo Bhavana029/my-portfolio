@@ -16,16 +16,16 @@ const Skills = () => {
     {
       title: 'Backend',
       skills: [
-        { name: 'Node.js', level: 55 },
-        { name: 'SQL', level: 70 },
-        { name: 'MongoDB', level: 65 }
+        { name: 'Node.js', level: 40 },
+        { name: 'SQL', level: 50 },
+        { name: 'MongoDB', level: 25 }
         
       ]
     },
     {
       title: 'Tools',
       skills: [
-        { name: 'Git', level: 95 },
+        { name: 'Git', level: 75 },
         { name: 'Postman', level: 80 },
         { name: 'VS Code', level: 85 },
         { name: 'PyCharm', level: 85 },
@@ -36,10 +36,10 @@ const Skills = () => {
     {
       title: 'Programming languages',
       skills: [
-        { name: 'java', level: 85 },
-        { name: 'Python', level: 80 },
-        { name: 'C', level: 80 },
-        { name: 'C++', level: 80 },
+        { name: 'java', level: 55 },
+        { name: 'Python', level: 60 },
+        { name: 'C', level: 50 },
+        { name: 'C++', level: 50 },
        
       ]
     },
@@ -54,7 +54,7 @@ const Skills = () => {
     {
       title: 'OTHERS',
       skills: [
-        { name: 'AI & ML', level: 45 }
+        { name: 'AI & ML', level: 35 }
        
       ]
     }

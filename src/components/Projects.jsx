@@ -30,12 +30,12 @@ const Projects = () => {
 },
 
     {
-      title: 'Portfolio Website',
-      description: 'Responsive portfolio website with modern design, smooth animations, and optimized performance.',
-      image: 'https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg?auto=compress&cs=tinysrgb&w=600',
-      tags: ['Next.js', 'Tailwind', 'Framer Motion'],
-      liveUrl: 'https://my-portfolio-aa3q-git-main-bhavanas-projects-8bf17d37.vercel.app/',
-      githubUrl: 'https://github.com/Bhavana029/my-portfolio'
+      title: 'Complaint register system',
+      description: 'Developed a web-based Complaint Management System that enables users to register complaints and track their resolution status online. Implemented role-based modules for Admin, User, and Agent to efficiently manage complaints, bins, and reports. Designed a user-friendly interface with secure authentication, real-time status updates, and an intuitive dashboard for seamless complaint tracking. portfolio website with modern design, smooth animations, and optimized performance.',
+      image: 'https://blog.apnacomplex.com/wp-content/uploads/2022/06/Complaint-mgt.jpg',
+      tags: ['Node.js', 'Tailwind', 'Mern Stack'],
+      liveUrl: 'https://complaint-register-system-fsd.vercel.app/',
+      githubUrl: 'https://github.com/Bhavana029/complaint-register-system-FSD'
     }
   ];
 
